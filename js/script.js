@@ -1,4 +1,6 @@
 google.maps.event.addDomListener(window, 'load', initmap);
+var map;
+
 function initmap() {
   var mapOptions = {
     center :{
@@ -50,5 +52,5 @@ function initmap() {
   }
 
   var map = new google.maps.Map(document.getElementById('map'), mapOptions);
-
+  
 }
