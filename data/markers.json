@@ -1,52 +1,72 @@
 [
   {
+    "id": 1,
     "place_name" : "Wellington Museum",
     "lat": -41.285103,
-    "lng":  174.778080
+    "lng":  174.778080,
+    "description": "Wellington Museum"
   },
   {
+    "id": 2,
     "place_name" : "Wellington Zoo",
     "lat": -41.319543,
-    "lng":  174.784643
+    "lng":  174.784643,
+    "description": "Wellington Zoo"
   },
   {
+    "id": 3,
     "place_name" : "Botanical Garden",
     "lat": -41.282308,
-    "lng":  174.767451
+    "lng":  174.767451,
+    "description": "Botanical Garden"
   },
   {
+    "id": 4,
     "place_name" : "Oriental Parade",
     "lat": -41.291307,
-    "lng": 174.794108
+    "lng": 174.794108,
+    "description": "Oreintal Parade"
   },
   {
+    "id": 5,
     "place_name" : "Victoria University of Wellingtons",
     "lat": -41.290402,
-    "lng": 174.768662
+    "lng": 174.768662,
+    "description": "UNI"
   },
   {
+    "id": 6,
     "place_name" : "Massey University Wellington",
     "lat": -41.302789,
-    "lng": 174.775344
+    "lng": 174.775344,
+    "description": "UNI"
   },
   {
+    "id": 7,
     "place_name" : "Zealandia",
     "lat": -41.290157,
-    "lng": 174.753494
+    "lng": 174.753494,
+    "description": "Zelandia"
   },
   {
+    "id": 8,
     "place_name" : "Weta Cave",
     "lat": -41.306423,
-    "lng": 174.824291
+    "lng": 174.824291,
+    "description": "Weta Cave"
   },
   {
+    "id": 9,
     "place_name" : "Wellington Cable Car",
     "lat": -41.284050,
-    "lng": 174.775113
+    "lng": 174.775113,
+    "description": "Cable Car"
   },
   {
+    "id": 10,
     "place_name" : "Civic Square",
     "lat": -41.288748,
-    "lng": 174.777153
+    "lng": 174.777153,
+    "description": "Civic Square"
   }
 ]
